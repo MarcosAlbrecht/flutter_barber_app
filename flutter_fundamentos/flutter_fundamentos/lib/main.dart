@@ -1,3 +1,4 @@
+// @dart=2.9
 import 'package:flutter/material.dart';
 import 'package:flutter_fundamentos/app/routes/app_pages.dart';
 import 'package:flutter_fundamentos/app/routes/app_routes.dart';
